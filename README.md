@@ -23,7 +23,7 @@
 ### Use bash
 
 ```bash
-$ git clone https://github.com/xiashei/data-analysis.git data-analysis
+$ git clone https://github.com/zkk0816/flask_react.git flask_react   
 $ cd data-analysis
 $ npm install
 $ npm start         # visit http://localhost:8000
